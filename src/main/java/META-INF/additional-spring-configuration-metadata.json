@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "sprin.jpa.show-sql",
+  "type": "java.lang.String",
+  "description": "A description for 'sprin.jpa.show-sql'"
+}]}
